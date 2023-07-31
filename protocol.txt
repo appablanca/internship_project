@@ -1,0 +1,2 @@
+this is the continuation of the internship repository.
+since updating the same repository by creating different folders for each day is inefficient from now on I will only update this file. 
