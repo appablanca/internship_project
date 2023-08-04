@@ -93,7 +93,7 @@ app.use((error, req, res, next) => {
 });
 
 mongoose
-    .connect("mongodb+srv://feyzieren:f8wjV80YPIP9vbIg@cluster0.jxeprcj.mongodb.net/messages?retryWrites=true&w=majority")
+    .connect("")
     .then(result => {
         app.listen(8080);
     })
